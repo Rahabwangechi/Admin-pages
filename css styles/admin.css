@@ -1,0 +1,92 @@
+#navbar ul li{
+    display: inline;
+    margin-right: 5px;
+}
+#navbar{
+    background-color: forestgreen;
+}
+.h1{
+    text-align: center;
+
+}
+.unstyled{
+    display: inline;
+    list-style: none;
+    text-align: left;
+    padding-left: 2px;
+}
+.cover{
+    background-color: darkgray;
+}
+.btn{
+    position: absolute;
+    left: 90%;
+    top: 30%;
+}
+.row1 ul li{
+    list-style: none;
+}
+.row1{
+    display:block;
+    display: flex;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.row2 ul li{
+    list-style: none;
+}
+
+.row2{
+    display:block;
+    display: flex;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    justify-content: start;
+}
+.row3 ul li{
+    list-style: none;
+}
+
+.row3{
+    display:block;
+    display: flex;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    justify-content: start;
+}
+.row4 ul li{
+    list-style: none;
+}
+
+.row4{
+    display:block;
+    display: flex;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    justify-content: start;
+}
+.row5 ul li{
+    list-style: none;
+}
+
+.row5{
+    display:block;
+    display: flex;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    justify-content: start;
+}
+.row6 ul li{
+    list-style: none;
+}
+
+.row6{
+    display:block;
+    display: flex;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    justify-content: start;
+}
+
